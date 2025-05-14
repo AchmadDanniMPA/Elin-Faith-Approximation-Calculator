@@ -102,7 +102,7 @@ public class FaithCalculator {
                 try {
                     double days = Double.parseDouble(daysField.getText());
                     double punishmentTurns = 2000 + (days * 20);
-                    double approxPunishmentDays = punishmentTurns / (27000.0 / 32.0);
+                    double approxPunishmentDays = punishmentTurns / (27000.0 / 32.0); // Approximation from my last save not 100% accurate
 
                     StringBuilder sb = new StringBuilder();
                     sb.append(String.format("Punishment for %.0f days in faith:\n", days));
