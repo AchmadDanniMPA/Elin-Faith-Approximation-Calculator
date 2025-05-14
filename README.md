@@ -1,6 +1,6 @@
 # Elin - Approximation Calculator for Piety & Punishment
 
-A simple Java app to calculate required piety percentage and divine punishment duration based on faith level and days in faith.
+A simple Java app to calculate the required piety percentage and divine punishment duration based on faith level and days in faith.
 
 ---
 
@@ -8,7 +8,7 @@ A simple Java app to calculate required piety percentage and divine punishment d
 
 - Calculates how much Piety % you need for 15(Pet) and 35(Weapon) rewards
 - Shows the feedback message based on your current Faith level
-- Calculates divine punishment turns and real-time days if you abandon your faith
+- Calculates divine punishment turns and in-game days if you abandon your faith
 
 ---
 
